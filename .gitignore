@@ -32,4 +32,4 @@ build/
 .vscode/
 
 ### spring boot ###
-./application.properties
+application.properties
